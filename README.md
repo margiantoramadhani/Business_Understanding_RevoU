@@ -1,7 +1,7 @@
 ## Business understanding of property listing company
 Link : https://docs.google.com/spreadsheets/d/17HORa2MNfhv51Z_jWNrMPcclE9D_YLqPXqO8w3NLUkQ/edit?usp=share_link
 
-#### Get insight by analyze of dataset by using Excel
+#### Get insight by analyze of dataset by using Spreadsheet/Excel
 ----
 
 ### Table of Contents</br>
